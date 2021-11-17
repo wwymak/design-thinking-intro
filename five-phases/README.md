@@ -23,4 +23,4 @@ These three principles translate into five phases that result in an innovative a
 ![five phases](https://user-images.githubusercontent.com/57373296/75271537-59cf7580-57ca-11ea-8b16-56c1edbb781b.png)
 
 
-The [Stanford Design Thinking Process Guide](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf) is a great reference for further reading on the five phases of Design Thinking.
+The [Stanford Design Thinking Process Guide](http://www.web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf) is a great reference for further reading on the five phases of Design Thinking.
